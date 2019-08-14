@@ -1,6 +1,6 @@
 # Leetcode-Practice
 
-| First Header  | Second Header |
+| Problem  | Difficulty |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| [] (https://github.com/arafathussainn/Leetcode-Practice/blob/master/Baseball_Game.java)  | Easy  |
 | Content Cell  | Content Cell  |

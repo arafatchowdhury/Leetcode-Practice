@@ -3,4 +3,4 @@
 | Problem  | Difficulty |
 | ------------- | ------------- |
 | [Baseball Game] (#https://github.com/arafathussainn/Leetcode-Practice/blob/master/Baseball_Game.java)  | Easy  |
-| Content Cell  | Content Cell  |
+| <a href="https://github.com/arafathussainn/Leetcode-Practice/blob/master/Baseball_Game.java">Baseball Game</a>  | Content Cell  |

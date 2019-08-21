@@ -1,6 +1,6 @@
 # Leetcode-Practice
 
-|| Problem  | Difficulty |
+|  | Problem  | Difficulty |
 |1| :------: | :--------: |
 |2| <a href="https://github.com/arafathussainn/Leetcode-Practice/blob/master/Baseball_Game.java">Baseball Game</a>  | Easy  |
 |3| <a href="https://github.com/arafathussainn/Leetcode-Practice/blob/master/Defanging_an_IP_Address.java">Defanging an IP Address</a>  | Easy  |

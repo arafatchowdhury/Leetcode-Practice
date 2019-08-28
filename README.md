@@ -11,4 +11,4 @@
 |7|<a href="https://github.com/arafathussainn/Leetcode-Practice/blob/master/Reverse_Integer.java">Reverse Integer</a>|Easy|
 |8|<a href="https://github.com/arafathussainn/Leetcode-Practice/blob/master/Symmetric_Tree.java">Symmetric Tree</a>|Easy|
 |9|<a href="https://github.com/arafathussainn/Leetcode-Practice/blob/master/Two_Sum.java"> Two Sum</a>|Easy|
-|10|To be continued|Easy|
+|10|To be continued...|...|
